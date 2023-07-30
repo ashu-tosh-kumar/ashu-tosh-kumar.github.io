@@ -20,9 +20,13 @@ Let's first see TODO Notifier in action.
 Read more about TODO Notifier and how to get it up and running in no time on
 [Medium](https://at-k.medium.com/streamline-your-todos-with-todo-notifier-for-python-projects-6f95c03a2d34).
 
+Find detailed code documentation on [GitHub
+Pages](https://ashu-tosh-kumar.github.io/todo_notifier/todonotifier.html).
+
 Find project on
 
 - [PyPi](https://pypi.org/project/todonotifier/)
 - [GitHub](https://github.com/ashu-tosh-kumar/todo_notifier)
 - [ProductHunt](https://www.producthunt.com/posts/todo-notifier)
 - [SourceForge](https://sourceforge.net/projects/todo-notifier/)
+
