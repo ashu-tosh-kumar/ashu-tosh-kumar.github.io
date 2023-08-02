@@ -8,7 +8,7 @@ collection: portfolio
 
 Stack Scraper is a sample repository showcasing how to write impeccably clean code that
 will save your sanity. It is in correspondence to my Medium article published by
-gitconnected: [How to Write Impeccably Clean Code That Will Save Your
+[gitconnected](https://gitconnected.com/): [How to Write Impeccably Clean Code That Will Save Your
 Sanity](https://medium.com/gitconnected/how-to-write-impeccably-clean-code-that-will-save-your-sanity-7d0ea59d285c).
 
 Stack-Scraper contains one scrapper that can be triggered on demand. It scrapes questions and answers from Stack Overflow. We are making the following assumptions about Stack Overflow.

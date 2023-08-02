@@ -27,6 +27,3 @@ Find project on
 
 - [PyPi](https://pypi.org/project/todonotifier/)
 - [GitHub](https://github.com/ashu-tosh-kumar/todo_notifier)
-- [ProductHunt](https://www.producthunt.com/posts/todo-notifier)
-- [SourceForge](https://sourceforge.net/projects/todo-notifier/)
-
